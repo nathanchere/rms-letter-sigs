@@ -2,7 +2,7 @@
 
 A chrome extension to add a notice to repositories from anyone who has signed the RMS mob harassment letter.
 
-![Screenshot](./screenshot.png)
+![Screenshot](./ss.png)
 
 ## Installation
 
